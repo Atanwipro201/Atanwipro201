@@ -5,7 +5,6 @@ and I'm still learning new technologies, i have various repositories but i recom
 <p>contact info:</p>
 <ul>
   <li><a href="https://www.instagram.com/aryan.tnf/">instagram<a/></li>
-    <li><a href="https://www.instagram.com/aryan.tnf/">instagram<a/></li>
 </ul>
 
 

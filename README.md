@@ -1,11 +1,20 @@
-<h1>hi, I'm a <strong>junior software dev</strong></h1>
-<p>I handle technologies like: <strong>React / React Native, NodeJS, PostgreSQL, HTML, CSS, JS</strong>
-and I'm still learning new technologies, i have various repositories but i recommend having a look at the <a href="https://github.com/Atanwipro201/polar-api">Polar API</a> a new projet to create a new coffe shop backend to sell coffee
-</p>
-<p>contact info:</p>
-<ul>
-  <li><a href="https://www.instagram.com/aryan.tnf/">instagram<a/></li>
-</ul>
+# 👋 Hola, soy Aryan Tanwani
+
+Soy desarrollador web full-stack junior con experiencia en:
+React.js • Node.js • PostgreSQL • APIs • HTML/CSS • Git
+
+📍 Santa Cruz de Tenerife, España  
+🎯 Buscando mi primer rol como Desarrollador Junior
+
+## 🛠 Tecnologías
+React | Node.js | JavaScript | PostgreSQL | Docker | Git
+
+## 📁 Proyectos destacados
+🔗 **Polar Coffee** — Aplicación full-stack para conectar cafeterías con clientes  
+
+📫 Contacto  
+📧 atanwi@proton.me  
+🔗 <a href="https://www.instagram.com/aryan.tnf/">instagram</a>
 
 
 <!---

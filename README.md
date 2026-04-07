@@ -1,7 +1,7 @@
 # 👋 Hola, soy Aryan Tanwani
 
 Soy desarrollador web full-stack junior con experiencia en:
-React.js • Node.js • PostgreSQL • APIs • HTML/CSS • Git
+React.js • Node.js • PostgreSQL • APIs • HTML/CSS • GitS • C
 
 📍 Santa Cruz de Tenerife, España  
 🎯 Buscando mi primer rol como Desarrollador Junior

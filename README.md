@@ -8,6 +8,10 @@ React.js • Node.js • PostgreSQL • APIs • HTML/CSS • GitS • C
 
 ## 🛠 Tecnologías
 React | Node.js | JavaScript | PostgreSQL | Docker | Git
+## Colaboraciones
+estoy buscando colaborar en la mayoría de proyectos open source que se me propongan
+por lo que si necesitan ayuda con alguno en el que pueda servir de algo no duden en contactarme.
+(lo que quiero es obtener experiencia colaborativa)
 
 ## 📁 Proyectos destacados
 🔗 **Cloth combiner** — Web para combinar ropa.<a href="https://cloth-combiner.onrender.com">pruebala</a>

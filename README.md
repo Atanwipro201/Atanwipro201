@@ -14,7 +14,8 @@ por lo que si necesitan ayuda con alguno en el que pueda servir de algo no duden
 (lo que quiero es obtener experiencia colaborativa)
 
 ## 📁 Proyectos destacados
-🔗 **Cloth combiner** — Web para combinar ropa.<a href="https://cloth-combiner.onrender.com">pruebala</a>
+🔗 **Cloth combiner** — Web para combinar ropa.
+<a href="https://cloth-combiner.onrender.com">pruebala</a>
 
 🔗 **Polar Coffee** — Aplicación full-stack para conectar cafeterías con clientes.
 
